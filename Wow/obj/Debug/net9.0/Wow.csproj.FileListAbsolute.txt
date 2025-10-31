@@ -1,0 +1,14 @@
+C:\Users\muzal\source\repos\Wow\Wow\bin\Debug\net9.0\Wow.exe
+C:\Users\muzal\source\repos\Wow\Wow\bin\Debug\net9.0\Wow.deps.json
+C:\Users\muzal\source\repos\Wow\Wow\bin\Debug\net9.0\Wow.runtimeconfig.json
+C:\Users\muzal\source\repos\Wow\Wow\bin\Debug\net9.0\Wow.dll
+C:\Users\muzal\source\repos\Wow\Wow\bin\Debug\net9.0\Wow.pdb
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.AssemblyInfoInputs.cache
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.AssemblyInfo.cs
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.csproj.CoreCompileInputs.cache
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.dll
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\refint\Wow.dll
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.pdb
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\Wow.genruntimeconfig.cache
+C:\Users\muzal\source\repos\Wow\Wow\obj\Debug\net9.0\ref\Wow.dll
