@@ -15,7 +15,7 @@ namespace Wow.Core.Models
 
 
         public User(string name, string email, string password) { 
-        this.UserId = Guid.NewGuid();
+        
             this.Name = name;
             this.Email = email;
             this.Password = password;
