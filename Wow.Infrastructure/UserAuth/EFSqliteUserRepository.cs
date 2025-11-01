@@ -20,7 +20,7 @@ namespace Wow.Infrastructure.UserAuth
             {
                 return db.Users.Find(id);
             }
-          
+
         }
 
 
@@ -31,13 +31,30 @@ namespace Wow.Infrastructure.UserAuth
             {
                 if (user.UserId == Guid.Empty)
                     db.Users.Add(user);
-                
-              
-
-                // db.SaveChanges() теперь сработает
                 db.SaveChanges();
             }
-          
+
         }
+
+
+        public User LoadPlayer(string email, string password)
+        {
+            using (db)
+            {
+                var user = db.Users.FirstOrDefault(u => u.Email == email);
+                if (user.Password == password)
+                {
+                    if (user != null)
+                    {
+                       
+                        if (user.Password == password)
+                        {
+                            return user;
+                        }
+                    }
+                }
+            }
+            return null;
+        } 
     }
 }
